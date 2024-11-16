@@ -42,8 +42,8 @@ ngrok for https tunneling
 
 This is tunnneling so that our local host http is forwarded to https which is secured by tunneling.
 Now this https url can used for our Google dialogflow fulfillment webhook url
-Link to my Exdine dialogflow chatbot -> https://dialogflow.cloud.google.com/#/agent/exdine-chatbot-for-food-d-mlfx/fulfillment 
-
+Link to my Exdine dialogflow chatbot -> https://dialogflow.cloud.google.com/#/agent/exdine-chatbot-for-food-d-mlfx/fulfillment
+I have given access to "gdg@vit.ac.in" as a developer so that they can change webhook url to hit the responses of queries from backend
 ![Screenshot 2024-11-16 223304](https://github.com/user-attachments/assets/0ffdc403-9f00-44d5-a7ce-37d42e2a8a79)
 
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
