@@ -64,3 +64,4 @@ The database Schema is:
 ![Screenshot 2024-11-16 200037](https://github.com/user-attachments/assets/63788fd4-55c2-4044-870d-48122b4dabcd)
 
 
+Thanks GDSC for this opportunity. Enjoyed this project!!!
